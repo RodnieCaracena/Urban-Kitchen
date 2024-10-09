@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrbanKitchen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4f216f11ccce5db7992e2fda247a7cf1c4be551")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrbanKitchen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrbanKitchen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
